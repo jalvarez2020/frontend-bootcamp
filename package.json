@@ -60,7 +60,7 @@
     "highlight.js": "^9.14.2",
     "immer": "^1.12.1",
     "marked": "^0.6.1",
-    "office-ui-fabric-react": "^6.144.0",
+    "office-ui-fabric-react": "^6.214.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-redux": "^6.0.0",
