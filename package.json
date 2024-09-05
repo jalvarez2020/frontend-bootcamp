@@ -55,7 +55,7 @@
     "@uifabric/fluent-theme": "^0.14.1",
     "@uifabric/theme-samples": "^0.1.4",
     "enzyme": "^3.9.0",
-    "enzyme-adapter-react-16": "^1.9.1",
+    "enzyme-adapter-react-16": "^1.15.8",
     "express": "^4.16.4",
     "highlight.js": "^9.14.2",
     "immer": "^1.12.1",
